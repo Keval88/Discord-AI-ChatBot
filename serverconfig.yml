@@ -1,0 +1,74 @@
+channel_groups:
+  keywords:
+    - keyword: "hello"
+      reaction:
+        - "👀"
+      response:
+        - "My world"
+    - keyword: "kev"
+      reaction:
+        - "👀"
+      response:
+        - "Has a bigger brain"
+    - keyword: "bot"
+      reaction:
+        - "👀"
+      response:
+        - "I am a bot"
+    - keyword: "thanks"
+      reaction:
+        - "😊"
+      response:
+        - "Always here to help!"
+    - keyword: "goodbye"
+      reaction:
+        - "👋"
+      response:
+        - "Farewell and take care!"
+    - keyword: "help"
+      reaction:
+        - "🆘"
+      response:
+        - "How can I assist you today?"
+    - keyword: "funny"
+      reaction:
+        - "😂"
+      response:
+        - "I’m glad you enjoyed that!"
+    - keyword: "weather"
+      reaction:
+        - "☁️"
+      response:
+        - "Looking up the weather for you!"
+    - keyword: "music"
+      reaction:
+        - "🎵"
+      response:
+        - "Let’s talk about music!"
+    - keyword: "news"
+      reaction:
+        - "📰"
+      response:
+        - "Here’s what’s happening around the world:"
+    - keyword: "sports"
+      reaction:
+        - "🏀"
+      response:
+        - "Which sport are you interested in?"
+    - keyword: "food"
+      reaction:
+        - "🍽️"
+      response:
+        - "What type of cuisi7ne are you craving today?"
+    - keyword: "halil"
+      reaction:
+        - "👋"
+      response:
+        - "Hello Halil! What can I do for you today?"
+        - "Hey Halil, great to see you here!"
+        - "What's up, Halil?"
+    - keyword: "curse words"
+      reaction:
+        - "😟"
+      response:
+        - "I'm here to help, so let's keep our conversation positive."
